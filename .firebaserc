@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "crawlmonster-com": {
+      "hosting": {
+        "api": [
+          "api-crawlmonster-com"
+        ],
+        "login": [
+          "crawlmonster-com"
+        ]
+      }
+    }
+  }
+}
